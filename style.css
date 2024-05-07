@@ -1,0 +1,21 @@
+header {
+  background-color: rgb(0, 174, 255);
+  color: aliceblue;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 30px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+.testata {
+  display: flex;
+  gap: 400px;
+}
+button {
+  border-radius: 50px;
+}
